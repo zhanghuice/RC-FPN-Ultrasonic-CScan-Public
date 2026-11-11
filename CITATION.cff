@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Provisional citation metadata; this candidate has not been publicly released."
+title: "Low-Contrast Industrial Ultrasonic C-Scan Defect Segmentation Based on Training-Label Region Expansion"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Huice
+  - family-names: Zhu
+    given-names: Haijiang
+identifiers:
+  - type: other
+    value: "JCRAI 2026 manuscript RI027"
+license: "NOASSERTION"

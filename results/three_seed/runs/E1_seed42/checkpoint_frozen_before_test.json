@@ -1,0 +1,22 @@
+{
+  "method": "E1",
+  "seed": 42,
+  "best_epoch": 4,
+  "checkpoint": "<private-local-path-redacted>",
+  "checkpoint_sha256": "8CDE2CE84777091C8EF2DA42F0359EE17F6BABE82116069EBA87DE16D76C27B2",
+  "validation_metrics": {
+    "tp": 48825,
+    "fp": 57007,
+    "fn": 36926,
+    "recall": 0.5693811150883729,
+    "precision": 0.46134439488957846,
+    "dice": 0.5097007563298885,
+    "iou": 0.3420123565752238,
+    "pixel_ap": 0.5198619612807753,
+    "pixel_auroc": 0.9363357653926767,
+    "aupro": 0.4800037692716064,
+    "loss": 1.1740869125433728,
+    "num_images": 113
+  },
+  "frozen_before_test_utc": "2026-11-03T10:28:43Z"
+}

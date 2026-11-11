@@ -1,0 +1,9 @@
+{
+  "total": 2.1544289588928223,
+  "bce": 0.16812096536159515,
+  "dice": 0.9924262762069702,
+  "focal_tversky": 0.9938817620277405,
+  "boundary": 0.0,
+  "base_gradient_l2": 10.978226238642062,
+  "weighted_boundary_gradient_l2": 0.0
+}
